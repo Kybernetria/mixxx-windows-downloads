@@ -1,0 +1,3 @@
+cc7af95306dc1a4f25e1c41f328ee16da28b12a42b9897ccf903ec678b6670ba  mixxx-1c0b69f-modified-amd64.msi
+98a3eb9c34761cc286773677112eb9cd2aa483c5d586f9c05cba7435fedfe060  Mixxx-protected-Link-Windows-x64-portable.zip
+c28bf3d1d0ba777579751b9c8d46c02fa5bd7d0e1eab51d8296469c5a3b478be  Mixxx-protected-Link-Windows-x64-source.zip
